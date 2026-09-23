@@ -3,7 +3,9 @@ pandas
 matplotlib
 opencv-python
 scikit-learn
+scikit-image
 torch
 torchvision
 nibabel
 tqdm
+git+https://github.com/facebookresearch/segment-anything.git
