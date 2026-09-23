@@ -6,7 +6,7 @@ This project focuses on fine-tuning the Segment Anything Model (SAM) for brain t
 
 The main objective is to adapt SAM, originally designed for general image segmentation, for medical image segmentation and compare its performance with a U-Net baseline model.
 
-## Problem Statement
+## Problem Statements 
 
 Brain tumor segmentation from MRI scans is a critical task in medical image analysis. Manual segmentation is time-consuming and requires expert knowledge. This project explores deep learning-based segmentation to assist in accurate tumor region detection.
 
